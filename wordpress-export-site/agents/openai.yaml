@@ -1,0 +1,4 @@
+interface:
+  display_name: "WordPress 外贸官网建站"
+  short_description: "用 Elementor 免费版制作英文产品官网，配置询盘、目录下载及 SEO"
+  default_prompt: "使用 $wordpress-export-site 为我的外贸业务制作或维护可用 Elementor 编辑的 WordPress 官网。"
