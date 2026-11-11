@@ -1,0 +1,4 @@
+interface:
+  display_name: "B2B Product Website Skill"
+  short_description: "用 WordPress 和 WooCommerce 建设可询盘的 B2B 产品网站"
+  default_prompt: "请使用 $b2b-product-website，根据我的产品目录和设计参考建设或优化一个 B2B 产品询盘网站。"
